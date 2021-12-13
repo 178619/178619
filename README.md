@@ -1,5 +1,7 @@
 Hello, my nickname is Fryze. My friend gave an idea for me. My old nickname was 'Clock' which I made without thinking much. Therefore I still thank my friend for making such a nice nickname, although we... Well, my ID 178619 was from my old nickname, and when 'clock' was obviously taken in the most websites my idea was to use atomic numbers - Cl to 17, O to 8, C to 6 and K to 19. (I know that sounds stupid, but I was 11 at the point...) I already changed my nickname for the most websites, but I didn't change mine here until now as all of my repos are private and I had no reason to care my profile. But after I have made a pull request once, I think it wouldn't hurt to fix the issue at once. That's why I am also writing this.
 
+
+
 My projects:
 * PRTS - Arknights Tools App for Android ([on Google Play](https://play.google.com/store/apps/details?id=com.floatick.arknightshelper))
   * Well, since I played Arknights a lot, I was seeking for some Arknights tools. And then I realized most of them are either not supporting Korean, discontinued or hard to use. So I decided to make my own one, and I thought it would be better if it is an app. Before this I was completely new to creating apps(well, it's not like I am good at programming, but I knew literally nothing about how to make an app) but somehow I could make a basic app with React Native. Now it has some useful tools and supports Korean, English and Chinese (though the quality for Chinese is lame as I had to use machine translations...) I hope I can improve my app further.
@@ -23,3 +25,19 @@ Langauges:
   * 유창한 한국어를 구사합니다만 성격 탓에 제대로 된 대화는 힘들지도 모릅니다. 인터넷상에서야 문제 없겠지만요. 뭐 현실에서 만날 일도 없으니, 그냥 한국어 잘 쓴다고 생각해주세요.
 * English (Barely Usable)
   * I can read English text, but I can't write very well. Also I am sure I will be panicked when someone tries to talk with me in English...
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+I do not know if you seriously wasted your time on reading this. You might have simply scrolled down to the end. I would have been surprised if I found that you are reading this sentence, but you know, although 'You' are surely reading this, I do not know if 'You' exist.
+
+Well, my posts are usually gibberish like this. This is exactly why I did not link my blog here. I really am a terrible writer afterall.
+
+And 'You' surely wasted their time. Well done, thank 'You' for reading. 'You' might be as stupid as me. I mean... sorry for wasting your time?
