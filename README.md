@@ -1,6 +1,4 @@
-Hello, my nickname is Fryze. My friend gave an idea for me. My old nickname was 'Clock' which I made without thinking much. Therefore I still thank my friend for making such a nice nickname, although we... Well, my ID 178619 was from my old nickname, and when 'clock' was obviously taken in the most websites my idea was to use atomic numbers - Cl to 17, O to 8, C to 6 and K to 19. (I know that sounds stupid, but I was 11 at the point...) I already changed my nickname for the most websites, but I didn't change mine here until now as all of my repos are private and I had no reason to care my profile. But after I have made a pull request once, I think it wouldn't hurt to fix the issue at once. That's why I am also writing this.
-
-
+Hello, my nickname is Fryze. My friend gave an idea for me. My old nickname was 'Clock' which I made without thinking much. Therefore I still thank my friend for making such a nice nickname, although we... Well, my ID 178619 was from my old nickname, and when 'clock' was obviously taken in the most websites my idea was to use atomic numbers - Cl to 17, O to 8, C to 6 and K to 19. (I know that sounds stupid, but I was 11 at the point...) I already changed my nickname for the most websites, but I didn't change mine here until now as all of my repos are private and I had no reason to care about my profile. But after I have made a pull request once, I think it wouldn't hurt to fix the issue at once. That's why I am also writing this.
 
 My projects:
 * PRTS - Arknights Tools App for Android ([on Google Play](https://play.google.com/store/apps/details?id=com.floatick.arknightshelper))
@@ -38,6 +36,6 @@ Langauges:
 
 I do not know if you seriously wasted your time on reading this. You might have simply scrolled down to the end. I would have been surprised if I found that you are reading this sentence, but you know, although 'You' are surely reading this, I do not know if 'You' exist.
 
-Well, my posts are usually gibberish like this. This is exactly why I did not link my blog here. I really am a terrible writer afterall.
+Well, my posts are usually gibberish like this. This is exactly why I did not link my blog here. I really am a terrible writer afterall. The worst part is I like being one because it sometimes means only I can understand my words.
 
 And 'You' surely wasted their time. Well done, thank 'You' for reading. 'You' might be as stupid as me. I mean... sorry for wasting your time?
