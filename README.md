@@ -1,10 +1,10 @@
 I am just an ordinary crazy human being.
 
-I maintain Ptilop.sys Arknights Tools App on Google Play.
+I make some stuff that I will use.
 
 Thank you for reading.
 
-## Projects
+### Projects
 - Ptilop.sys (Android App)
 - Fryze.me (Blog)
 - Scotsholm.com (Fortune Summoners Unofficial Website)
@@ -12,3 +12,9 @@ Thank you for reading.
 - Simple VLC Remote
 - Elemental Crossword (Abandoned)
 - Numerous abandoned websites
+
+### Others
+- Localization of various projects from others
+
+
+No, I never had a choice.
