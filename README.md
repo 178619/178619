@@ -15,6 +15,3 @@ Thank you for reading.
 
 ### Others
 - Localization of various projects from others
-
-
-No, I never had a choice.
