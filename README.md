@@ -6,7 +6,7 @@ Thank you for reading.
 
 ### Projects
 - Ptilop.sys (Android App, Tools)
-  - Resource Viewer/Calculators for Arknights (Android/iOS)
+  - Resource Viewer/Calculators for Arknights
 - Scotsholm.com (Static Website)
   - Fortune Summoners Unofficial Website
   - Old-fashioned Website Without External Libraries
